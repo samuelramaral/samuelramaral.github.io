@@ -20,7 +20,7 @@ h6 {
   font-family: 'Saira Extra Condensed', serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: #343a40;
+  color: #495057;
 }
 
 h1 {
@@ -34,7 +34,7 @@ h2 {
 
 .subheading {
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 600;
   font-family: 'Saira Extra Condensed', serif;
   font-size: 1.35rem;
 }
@@ -131,7 +131,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #563062 !important;
+  background-color: #495057 !important;
 }
 
 .text-primary {
